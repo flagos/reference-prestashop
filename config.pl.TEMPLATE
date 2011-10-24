@@ -5,6 +5,6 @@ $Presta_host = "";
 $Presta_port = "";
 $Presta_login= "";
 $Presta_pass = "";
-$Presta_db = "";
+$Presta_db   = "";
 
 return 1;
